@@ -1,4 +1,3 @@
-Okay, here's a README for your Jupyter Notebook project:
 
 # Breast Cancer Prediction with Logistic Regression
 
