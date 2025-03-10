@@ -61,6 +61,9 @@ This Jupyter Notebook provides a step-by-step implementation of a logistic regre
 
 5.  **Run the Cells:** Execute the cells in the notebook sequentially to load the data, train the model, and evaluate the results.
 
+   ![image](https://github.com/user-attachments/assets/cff8349c-0046-4bb3-a18b-1dc829caa3dc)
+
+
 ## Additional Notes
 
   * **Dataset:** The project uses the Wisconsin Breast Cancer Diagnostic dataset.
